@@ -1,4 +1,4 @@
-<?php include('header.php'); include('checkLogin.php'); ?>
+<?php include('checkLogin.php'); include('header.php'); ?>
 
 <div class="container auth-box">
     <h1><img src="images/notes.png" alt="Notes">Slice Of Life</h1>
