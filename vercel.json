@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://sliceoflife.up.railway.app/$1"
+    }
+  ]
+}
