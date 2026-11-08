@@ -1,8 +1,9 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/(.*)",
-      "destination": "http://sliceoflife.infinityfreeapp.com/"
+      "destination": "https://sliceoflife.infinityfreeapp.com/$1",
+      "permanent": false
     }
   ]
 }
